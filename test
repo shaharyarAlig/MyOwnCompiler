@@ -1,0 +1,33 @@
+declare
+int x, y, z,t;
+
+
+main(void)
+
+{
+
+t = z+y*x-20;
+
+
+if(t > 10) then
+
+x = 10;
+y = 1;
+z = 0;
+
+else
+
+t =x*y-z;
+
+fi;
+
+while ( z > x) {
+
+y= t+20*z;
+
+};
+
+
+
+
+}

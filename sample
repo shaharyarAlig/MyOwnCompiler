@@ -1,0 +1,27 @@
+declare
+int x, y, z;
+char w;
+float a;
+
+main(void)
+{
+// Hello world!
+
+/*
+My name is shaharyar 
+and this comment
+*/
+
+if(x > y && x > 0) then
+        x = 5;
+else
+	x = 0;
+	while(x < 10 &&  y < 5 || y > 1 ) { 
+		x = x + 1 * y - z;
+	};	
+fi;
+a = 22.45;
+w ='A';
+z =1;
+
+}
